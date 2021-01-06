@@ -1,0 +1,8 @@
+name: SCAH
+version: ${project.version}
+main: com.github.carthax08.scah.Main
+api-version: 1.16
+prefix: SCAH
+authors: [CarThax08]
+description: An AH plugin for my other plugin SimpleCurrencies!
+website: https://www.github.com/CarThax08/SCAH
